@@ -57,6 +57,9 @@ RF04: Relatórios e Estatísticas
  * RF04.1 - Relatório de Livros Mais Emprestados: Gerar uma lista dos livros mais populares em um determinado período.
  * RF04.2 - Relatório de Empréstimos Atrasados: Gerar uma lista de todos os usuários com devoluções pendentes.
  * RF04.3 - Inventário Geral: Exibir estatísticas simples sobre o acervo, como número total de livros, número de exemplares emprestados e número de exemplares disponíveis.
+
+
+
 Requisitos Não Funcionais (RNF)
 Os Requisitos Não Funcionais descrevem como o sistema deve ser. Eles definem as qualidades, restrições e padrões de funcionamento do sistema.
 RNF01: Usabilidade e Interface
