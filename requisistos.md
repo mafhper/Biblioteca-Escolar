@@ -16,10 +16,13 @@ Funcionar em diferentes navegadores
 Ser seguro contra acesso não autorizado
 Responder rapidamente a todas as ações (menos de 2 segundos)
 
----------
+---------------------------------------
 
 Requisitos Funcionais (RF)
+
 Os Requisitos Funcionais descrevem o que o sistema deve fazer. São as funcionalidades e ações que os usuários poderão executar.
+
+
 RF01: Gestão do Acervo de Livros
  * RF01.1 - Cadastrar Livro: O sistema deve permitir que o bibliotecário adicione um novo livro ao acervo, informando no mínimo:
    * Título
@@ -58,10 +61,13 @@ RF04: Relatórios e Estatísticas
  * RF04.2 - Relatório de Empréstimos Atrasados: Gerar uma lista de todos os usuários com devoluções pendentes.
  * RF04.3 - Inventário Geral: Exibir estatísticas simples sobre o acervo, como número total de livros, número de exemplares emprestados e número de exemplares disponíveis.
 
-
+---------------------------------------
 
 Requisitos Não Funcionais (RNF)
+
 Os Requisitos Não Funcionais descrevem como o sistema deve ser. Eles definem as qualidades, restrições e padrões de funcionamento do sistema.
+
+
 RNF01: Usabilidade e Interface
  * RNF01.1 - Intuitividade: A interface deve ser clara, organizada e fácil de usar, exigindo o mínimo de treinamento para o bibliotecário.
  * RNF01.2 - Feedback ao Usuário: O sistema deve fornecer respostas visuais imediatas para as ações do usuário (ex: mensagem de "Livro cadastrado com sucesso!" ou "Erro ao salvar").
