@@ -1,5 +1,9 @@
 # Sistema de Gerenciamento - Biblioteca Escolar
 
+**Integrantes:** 
+
+Matheus Pereira e Paolla Alves
+
 ## Descrição do Problema
 
 Uma biblioteca escolar precisa de um sistema simples para gerenciar seu acervo de livros. O sistema deve permitir que os bibliotecários realizem tarefas básicas de controle do acervo, incluindo cadastro de livros, gerenciamento de empréstimos e controle de usuários.
