@@ -27,6 +27,16 @@ Uma biblioteca escolar precisa de um sistema simples para gerenciar seu acervo d
 - Responder rapidamente a todas as ações (menos de 2 segundos)
 
 ---
+Preview: Login
+![Preview: Login](https://github.com/mafhper/Biblioteca-Escolar/blob/2b04534da613e6ca7b0ef7a323dc859ba73459a1/imagens/_%20DESKTOP_%20LOGIN.jpg)
+
+Preview: Dashboard
+![Preview: Dashboard](https://github.com/mafhper/Biblioteca-Escolar/blob/2b04534da613e6ca7b0ef7a323dc859ba73459a1/imagens/_%20DESKTOP_%20DASHBOARD.jpg)
+
+Preview: Acervo
+![Preview: Acervo](https://github.com/mafhper/Biblioteca-Escolar/blob/2b04534da613e6ca7b0ef7a323dc859ba73459a1/imagens/_%20DESKTOP_%20ACERVO.jpg)
+
+---
 
 ## Requisitos Funcionais (RF)
 
@@ -224,3 +234,5 @@ A interface do sistema deve se adaptar a diferentes tamanhos de tela, permitindo
 - Smartphones (se necessário)
 
 ---
+Diagrama UML: Descrição Geral e Casos Específicos
+![Diagrama UML: Descrição Geral e Casos Específicos](https://github.com/mafhper/Biblioteca-Escolar/blob/2b04534da613e6ca7b0ef7a323dc859ba73459a1/imagens/UML.jpg)
