@@ -28,13 +28,13 @@ Uma biblioteca escolar precisa de um sistema simples para gerenciar seu acervo d
 
 ---
 Preview: Login
-![Preview: Login](https://github.com/mafhper/Biblioteca-Escolar/blob/2b04534da613e6ca7b0ef7a323dc859ba73459a1/imagens/_%20DESKTOP_%20LOGIN.jpg)
+![Preview: Login](imagens/LOGIN.jpg)
 
 Preview: Dashboard
-![Preview: Dashboard](https://github.com/mafhper/Biblioteca-Escolar/blob/2b04534da613e6ca7b0ef7a323dc859ba73459a1/imagens/_%20DESKTOP_%20DASHBOARD.jpg)
+![Preview: Dashboard](imagens/DASHBOARD.jpg)
 
 Preview: Acervo
-![Preview: Acervo](https://github.com/mafhper/Biblioteca-Escolar/blob/2b04534da613e6ca7b0ef7a323dc859ba73459a1/imagens/_%20DESKTOP_%20ACERVO.jpg)
+![Preview: Acervo](imagens/ACERVO.jpg)
 
 ---
 
@@ -235,4 +235,4 @@ A interface do sistema deve se adaptar a diferentes tamanhos de tela, permitindo
 
 ---
 Diagrama UML: Descrição Geral e Casos Específicos
-![Diagrama UML: Descrição Geral e Casos Específicos](https://github.com/mafhper/Biblioteca-Escolar/blob/2b04534da613e6ca7b0ef7a323dc859ba73459a1/imagens/UML.jpg)
+![Diagrama UML: Descrição Geral e Casos Específicos](imagens/UML.jpg)
